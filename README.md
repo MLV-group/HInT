@@ -1,6 +1,6 @@
 # HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding<br>[ICML 2026]
 
-[Project Page](https://mlv-group.github.io/HInT/) | [Paper](#) | [Citation](#citation)
+[Project Page](https://mlv-group.github.io/HInT/) | [Paper](https://openreview.net/forum?id=00qFGVnqba) | [Citation](#citation)
 
 > Official repository for **"HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding"**.
 
