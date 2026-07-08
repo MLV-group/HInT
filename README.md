@@ -25,10 +25,9 @@ Code coming soon.
 If you find this work useful, please consider citing:
 
 ```bibtex
-@inproceedings{lee2026hint,
+@inproceedings{leehint,
   title     = {HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding},
   author    = {Lee, Wonjin and Jeong, Soomi and Kim, Kwang In},
-  booktitle = {ICML},
-  year      = {2026}
+  booktitle = {Forty-third International Conference on Machine Learning}
 }
 ```
